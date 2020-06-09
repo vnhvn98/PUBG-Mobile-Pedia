@@ -7,4 +7,4 @@ Prodi : Teknik Informatika <br>
 Mata Kuliah : Pemrograman Mobile Advanced <br>
 Kampus : Universitas Matana <br>
 
-Saya membuat aplikasi dengan nama "PUBG Mobile Pedia. Aplikasi ini berisikan tentang informasi tim E-Sports yang ada di dunia beserta kejuaraan-kejuaraan dalam PUBG Mobile tersebut. Aplikasi ini dibentuk mirip dengan Liquidpedia. Terima Kasih.
+Saya membuat aplikasi dengan nama "PUBG Mobile Pedia". Aplikasi ini berisikan tentang informasi tim E-Sports yang ada di dunia beserta kejuaraan-kejuaraan dalam PUBG Mobile tersebut. Aplikasi ini dibentuk mirip dengan Liquidpedia. Terima Kasih.
